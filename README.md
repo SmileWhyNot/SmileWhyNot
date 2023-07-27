@@ -14,7 +14,6 @@ I am an inspired backend developer. My journey began at school with attempts to 
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-VladKuchuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Smilebbs)   [![Mail Badge](https://img.shields.io/badge/-Mail__Me-gray?style=flat&logo=Mail.ru&logoColor=white)](mailto:uladzislaukk@mail.ru)
 
-### Skills
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -40,10 +39,21 @@ I am an inspired backend developer. My journey began at school with attempts to 
 <a href="https://discord.com/users/whonotehot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  
 <a href="https://www.linkedin.com/in/vlad-kuchuk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-### Badges
 
-<b>My GitHub Stats</b>
+### 💻 Codewars:
 
-<a href="http://www.github.com/SmileWhyNot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SmileWhyNot&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![codewars](https://www.codewars.com/users/SmileWhyNot/badges/large)
 
-<a href="https://github.com/SmileWhyNot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileWhyNot&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=SmileWhyNot&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-smilewhynot.vercel.app/api/top-langs/?username=SmileWhyNot&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
