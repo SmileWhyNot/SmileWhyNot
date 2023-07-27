@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54F7B9&width=935&lines=Hello+World!+I'm+Vlad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=27F747&vCenter=true&width=435&lines=Hello+World!+I'm+Vlad)](https://git.io/typing-svg)
 
 ---
 
@@ -37,7 +37,7 @@ I am an inspired backend developer. My journey began at school with attempts to 
 
 ---
 
-## My projects:
+# **My projects:**
 
 <details>
   
