@@ -42,16 +42,32 @@ I am an inspired backend developer. My journey began at school with attempts to 
 <details>
   
   <summary>Spring practice:</summary>
-  
+    
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=task-management-system)](https://github.com/SmileWhyNot/task-management-system)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=clevertec-sessions-starter)](https://github.com/SmileWhyNot/clevertec-sessions-starter)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=clevertec-video-hosting-api)](https://github.com/SmileWhyNot/clevertec-video-hosting-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=proxy-logger)](https://github.com/SmileWhyNot/proxy-logger)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=DigitalLibrary)](https://github.com/SmileWhyNot/DigitalLibrary)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=hotel_management)](https://github.com/SmileWhyNot/hotel_management)
 </details>
+
 <details>
   
   <summary>Data structures:</summary>
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=PriorityQueue)](https://github.com/SmileWhyNot/PriorityQueue)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=LinkedListRealization)](https://github.com/SmileWhyNot/LinkedListRealization)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=BinaryTreeRealization)](https://github.com/SmileWhyNot/BinaryTreeRealization)
+</details>
+
+<details>
+  
+  <summary>Other interesting projects:</summary>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=clevertec-servlets)](https://github.com/SmileWhyNot/clevertec-servlets)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=GitBranchTaggingPlugin)](https://github.com/SmileWhyNot/GitBranchTaggingPlugin)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=clevertec-sql-task)](https://github.com/SmileWhyNot/clevertec-sql-task)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmileWhyNot&repo=StreamApiTraining)](https://github.com/SmileWhyNot/StreamApiTraining)
 </details>
 
 ---
@@ -66,17 +82,3 @@ I am an inspired backend developer. My journey began at school with attempts to 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/SmileWhyNot/badges/large)
-
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=SmileWhyNot&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-smilewhynot.vercel.app/api/top-langs/?username=SmileWhyNot&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
